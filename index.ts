@@ -22,7 +22,7 @@
 
   // Interfaces
 
-  interface Vehicle {
+  interface Vehicle {``
     name: string,
     year: number,
     broken: boolean,
